@@ -1,0 +1,15 @@
+
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+footer ul li {
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 0px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #000000;
+    
+    }
